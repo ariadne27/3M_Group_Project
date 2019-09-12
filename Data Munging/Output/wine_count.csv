@@ -1,83 +1,74 @@
 attribute,wine
-acetate,5
-acetic,9
+acetic acid,9
 alcohol,5183
 almond,3390
-anise,2434
 apple,11729
 apricot,3957
 artichoke,24
 asparagus,335
 bacon,1769
+baker's yeast,536
 banana,1171
-beans,163
 bell,534
+black currant,12987
+black pepper,9064
 blackberry,14799
-blossom,1207
 burned,31
-burnt,1173
-butter,1229
+burnt match,699
+burnt toast,8199
 butterscotch,1222
 cabbage,25
-canned,218
+canned/cooked,798
 caramel,3063
-cassis,6303
 cedar,3802
 cherry,32172
 chocolate,12090
-citrus,12002
+citrus,16925
 cloves,117
 coffee,5283
-cooked,580
 cork,109
-currant,6684
+cut green grass,1060
+diacetyl (butter),1229
 diesel,126
-dioxide,11
-dog,63
 dried,5996
 dusty,2768
+ethyl acetate,5
 eucalyptus,445
 fig,1269
 floral,3662
 fresh,16653
-fruity,8643
+fruit aromas,8643
 garlic,94
-gas,11
 geranium,16
 grapefruit,4005
-grass,1060
-hay,556
+green beans,163
+green/black olive,1831
+hay/straw,740
 hazelnut,370
 honey,5053
 horsey,72
-jam,2964
 kerosene,29
 leesy,404
 lemon,6831
-licorice,5884
-match,699
+licorice/anise,8318
 medicinal,794
 melon,4797
 menthol,920
-mint,2564
-minty,1094
+mint,3658
 molasses,557
 moldy,16
 mousy,10
 mushroom,1100
+"natural gas, mercaptain",11
 nutty,804
-oak,20269
-oaky,2896
-olive,1831
-orange,4923
+oak,23165
+orange blossom,1207
 oxidized,266
 peach,8798
-pepper,9064
 petroleum,65
 phenolic,92
 pineapple,5644
 plastic,137
-plum,13499
 prune,1758
 raisin,1458
 raspberry,9892
@@ -87,21 +78,20 @@ rubbery,896
 sauerkraut,21
 skunk,4
 smoky,5801
-soy,297
-spice,22781
-spicy,8274
-straw,184
+soy sauce,297
+spicy,31055
 strawberry,3632
+strawberry jam,2964
 sulfur,207
+sulfur dioxide,11
 sweaty,325
 tar,1139
 tea,2185
-toast,7026
 tobacco,6303
-tropical,4132
+tree fruit,13499
+tropical fruit,4132
 vanilla,13680
 violet,1092
 walnut,178
-wool,14
-yeast,536
+"wet wool, wet dog",77
 yogurt,57
