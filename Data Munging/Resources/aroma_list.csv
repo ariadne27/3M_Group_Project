@@ -1,43 +1,17 @@
 ﻿tier 1,tier 2,tier 3,alt name
-Fruit Aromas,Citrus,Grapefruit,
-Fruit Aromas,Citrus,Lemon,
-Fruit Aromas,Berry,Blackberry,
-Fruit Aromas,Berry,Raspberry,
-Fruit Aromas,Berry,Strawberry,
-Fruit Aromas,Berry,Currant,black currant
-Fruit Aromas,Berry,Cassis,black currant
-Fruit Aromas,Tree Fruit,Cherry,
-Fruit Aromas,Tree Fruit,Apricot,
-Fruit Aromas,Tree Fruit,Peach,
-Fruit Aromas,Tree Fruit,Apple,
-Fruit Aromas,Tropical Fruit,Pineapple,
-Fruit Aromas,Tropical Fruit,Melon,
-Fruit Aromas,Tropical Fruit,Banana,
-Fruit Aromas,Dried Fruit,Jam,Strawberry Jam
-Fruit Aromas,Dried Fruit,Raisin,
-Fruit Aromas,Dried Fruit,Prune,
-Fruit Aromas,Dried Fruit,Fig,
-Fruit Aromas,Other,Artifical,Artificial Fruit
-Fruit Aromas,Other,Anthranilate,Methyl Anthranilate
-Spice Aromas,Spicy,Licorice,Licorice/Anise
-Spice Aromas,Spicy,Anise,Licorice/Anise
-Spice Aromas,Spicy,Pepper,Black Pepper
-Spice Aromas,Spicy,Cloves,
-Floral Aromas,Floral,Geranium,
-Floral Aromas,Floral,Violet,
-Floral Aromas,Floral,Rose,
-Floral Aromas,Floral,Blossom,Orange Blossom
-Microbiological Scents,Yeasty,Leesy,
-Microbiological Scents,Yeasty,Yeast,Baker’s Yeast
-Microbiological Scents,Lactic,Yogurt,Yogurt
-Microbiological Scents,Lactic,Yoghurt,Yogurt
-Microbiological Scents,Lactic,Sweaty,
-Microbiological Scents,Lactic,Sauerkraut,
-Microbiological Scents,Other,Mousy,
-Microbiological Scents,Other,Horsey,
-Sherry Aromas,Oxidized,Oxidized,
-Pungent Aromas,Cool,Menthol,
-Pungent Aromas,Hot,Alcohol,
+Caramel Aromas,Caramel,Honey,
+Caramel Aromas,Caramel,Butterscotch,
+Caramel Aromas,Caramel,Butter,Diacetyl (Butter)
+Caramel Aromas,Caramel,Diacetyl ,Diacetyl (Butter)
+Caramel Aromas,Caramel,Soy,Soy sauce
+Caramel Aromas,Caramel,Chocolate,
+Caramel Aromas,Caramel,Molasses,
+Caramel Aromas,Caramel,Caramel,Caramel
+Chemical Smells,Petroleum,Diesel,
+Chemical Smells,Petroleum,Kerosene,
+Chemical Smells,Petroleum,Plastic,
+Chemical Smells,Petroleum,Tar,
+Chemical Smells,Petroleum,Petroleum,Petroleum
 Chemical Smells,Pungent,Dioxide,Sulfur Dioxide
 Chemical Smells,Pungent,Ethanol,
 Chemical Smells,Pungent,Acetic,Acetic Acid
@@ -52,63 +26,89 @@ Chemical Smells,Sulfur,Gas,"Natural Gas, Mercaptain"
 Chemical Smells,Sulfur,Mercaptain,"Natural Gas, Mercaptain"
 Chemical Smells,Sulfur,Sulfide,Hydrogen Sulfide
 Chemical Smells,Sulfur,Rubbery,
-Chemical Smells,Petroleum,Diesel,
-Chemical Smells,Petroleum,Kerosene,
-Chemical Smells,Petroleum,Plastic,
-Chemical Smells,Petroleum,Tar,
-Earthy Aromas,Moldy,Cork,Moldy Cork
-Earthy Aromas,Moldy,Moldy,
+Chemical Smells,Sulfur,Sulfur,Sulfur
 Earthy Aromas,Earthy,Mushroom,
 Earthy Aromas,Earthy,Dusty,
+Earthy Aromas,Moldy,Cork,Moldy Cork
+Earthy Aromas,Moldy,Moldy,
+Floral Aromas,Floral,Geranium,
+Floral Aromas,Floral,Violet,
+Floral Aromas,Floral,Rose,
+Floral Aromas,Floral,Blossom,Orange Blossom
+Floral Aromas,Floral,Floral,Floral
+Fruit Aromas,Berry,Blackberry,
+Fruit Aromas,Berry,Raspberry,
+Fruit Aromas,Berry,Strawberry,
+Fruit Aromas,Berry,Currant,black currant
+Fruit Aromas,Berry,Cassis,black currant
+Fruit Aromas,Citrus,Grapefruit,
+Fruit Aromas,Citrus,Lemon,
+Fruit Aromas,Citrus,Citrus,Citrus
+Fruit Aromas,Citrus,Orange,Citrus
+Fruit Aromas,Dried Fruit,Jam,Strawberry Jam
+Fruit Aromas,Dried Fruit,Raisin,
+Fruit Aromas,Dried Fruit,Prune,
+Fruit Aromas,Dried Fruit,Fig,
+Fruit Aromas,Other,Artifical,Artificial Fruit
+Fruit Aromas,Other,Anthranilate,Methyl Anthranilate
+Fruit Aromas,Tree Fruit,Cherry,
+Fruit Aromas,Tree Fruit,Apricot,
+Fruit Aromas,Tree Fruit,Peach,
+Fruit Aromas,Tree Fruit,Apple,
+Fruit Aromas,Tree Fruit,Plum,Tree Fruit
+Fruit Aromas,Tropical Fruit,Pineapple,
+Fruit Aromas,Tropical Fruit,Melon,
+Fruit Aromas,Tropical Fruit,Banana,
+Fruit Aromas,Tropical Fruit,Tropical,Tropical Fruit
+Fruit Aromas,,Fruity,Fruit Aromas
+Herbaceous or/Vegetative Aromas,Canned/Cooked,Beans,Green Beans
+Herbaceous or/Vegetative Aromas,Canned/Cooked,Asparagus,
+Herbaceous or/Vegetative Aromas,Canned/Cooked,Olive,Green/Black Olive
+Herbaceous or/Vegetative Aromas,Canned/Cooked,Artichoke,
+Herbaceous or/Vegetative Aromas,Canned/Cooked,Canned,Canned/Cooked
+Herbaceous or/Vegetative Aromas,Canned/Cooked,Cooked,Canned/Cooked
+Herbaceous or/Vegetative Aromas,Dried,Hay,Hay/Straw
+Herbaceous or/Vegetative Aromas,Dried,Straw,Hay/Straw
+Herbaceous or/Vegetative Aromas,Dried,Tea,
+Herbaceous or/Vegetative Aromas,Dried,Tobacco,
+Herbaceous or/Vegetative Aromas,Dried,Dried,Dried
+Herbaceous or/Vegetative Aromas,Fresh,Grass,Cut Green Grass
+Herbaceous or/Vegetative Aromas,Fresh,Bell,Bell Pepper
+Herbaceous or/Vegetative Aromas,Fresh,Eucalyptus,
+Herbaceous or/Vegetative Aromas,Fresh,Mint,
+Herbaceous or/Vegetative Aromas,Fresh,Fresh,Fresh
+Herbaceous or/Vegetative Aromas,Fresh,Minty,Mint
+Microbiological Scents,Lactic,Yogurt,Yogurt
+Microbiological Scents,Lactic,Yoghurt,Yogurt
+Microbiological Scents,Lactic,Sweaty,
+Microbiological Scents,Lactic,Sauerkraut,
+Microbiological Scents,Other,Mousy,
+Microbiological Scents,Other,Horsey,
+Microbiological Scents,Yeasty,Leesy,
+Microbiological Scents,Yeasty,Yeast,Baker’s Yeast
+Nut Aromas,Nutty,Walnut,
+Nut Aromas,Nutty,Hazelnut,
+Nut Aromas,Nutty,Almond,
+Nut Aromas,Nutty,Nutty,Nutty
+Pungent Aromas,Cool,Menthol,
+Pungent Aromas,Hot,Alcohol,
+Sherry Aromas,Oxidized,Oxidized,
+Spice Aromas,Spicy,Licorice,Licorice/Anise
+Spice Aromas,Spicy,Anise,Licorice/Anise
+Spice Aromas,Spicy,Pepper,Black Pepper
+Spice Aromas,Spicy,Cloves,
+Spice Aromas,Spicy,Spicy,Spicy
+Spice Aromas,Spicy,Spice,Spicy
 Wood Aromas,Burned,Smoky,
 Wood Aromas,Burned,Toast,Burnt Toast
 Wood Aromas,Burned,Burnt,Burnt Toast
 Wood Aromas,Burned,Coffee,
+Wood Aromas,Burned,Burned,Burned
 Wood Aromas,Phenolic,Medicinal,
 Wood Aromas,Phenolic,Phenolic,
 Wood Aromas,Phenolic,Bacon,
 Wood Aromas,Resinous,Oak,
 Wood Aromas,Resinous,Cedar,
 Wood Aromas,Resinous,Vanilla,
-Caramel Aromas,Caramel,Honey,
-Caramel Aromas,Caramel,Butterscotch,
-Caramel Aromas,Caramel,Butter,Diacetyl (Butter)
-Caramel Aromas,Caramel,Diacetyl ,Diacetyl (Butter)
-Caramel Aromas,Caramel,Soy,Soy sauce
-Caramel Aromas,Caramel,Chocolate,
-Caramel Aromas,Caramel,Molasses,
-Nut Aromas,Nutty,Walnut,
-Nut Aromas,Nutty,Hazelnut,
-Nut Aromas,Nutty,Almond,
-Herbaceous or/Vegetative Aromas,Fresh,Grass,Cut Green Grass
-Herbaceous or/Vegetative Aromas,Fresh,Bell,Bell Pepper
-Herbaceous or/Vegetative Aromas,Fresh,Eucalyptus,
-Herbaceous or/Vegetative Aromas,Fresh,Mint,
-Herbaceous or/Vegetative Aromas,Canned/Cooked,Beans,Green Beans
-Herbaceous or/Vegetative Aromas,Canned/Cooked,Asparagus,
-Herbaceous or/Vegetative Aromas,Canned/Cooked,Olive,Green/Black Olive
-Herbaceous or/Vegetative Aromas,Canned/Cooked,Artichoke,
-Herbaceous or/Vegetative Aromas,Dried,Hay,Hay/Straw
-Herbaceous or/Vegetative Aromas,Dried,Straw,Hay/Straw
-Herbaceous or/Vegetative Aromas,Dried,Tea,
-Herbaceous or/Vegetative Aromas,Dried,Tobacco,
-,,Tropical,Tropical Fruit
-,,Spicy,Spicy
-,,Floral,Floral
-,,Petroleum,Petroleum
-,,Sulfur,Sulfur
-,,Caramel,Caramel
-,,Fresh,Fresh
-,,Canned,Canned/Cooked
-,,Cooked,Canned/Cooked
-,,Nutty,Nutty
-,,Dried,Dried
-,,Resinous,Resinous
-,,Burned,Burned
-,,Minty,Mint
-,,Oaky,Oak
-,,Citrus,Citrus
-,,Orange,Citrus
-,,Spice,Spicy
-,,Plum,Tree Fruit
-,,Fruity,Fruit Aromas
+Wood Aromas,Resinous,Resinous,Resinous
+Wood Aromas,Resinous,Oaky,Oak
