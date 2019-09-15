@@ -24,10 +24,27 @@
             text-anchor: middle;
         }
     </style>
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src='https://d3js.org/d3.v4.min.js'></script>
 </head>
 <body>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-12 jumbotron text-center">
+            <h2>Wine Recommendations</h2>
+            <p>Expand your palate. Explore by selecting a wine attribute.</p>
+        </div>
+    <div class="row">
+        <div class="col-md-2">
+            <div class="well">
+                <h5 class="panel-title">WINE DATA WILL BE HERE</h5>
+            </div>
+        <div id="sample-metadata" class="panel-body"></div>
+                  <!-- </div> -->
+                <!-- </div>
+              </div> -->
+
+
     <script>
         const width = window.innerWidth,
             height = window.innerHeight,
@@ -100,7 +117,7 @@
                     focusOn(d);
                 });
 
-            newSlice.append('title')
+            newSlice.append('title') 
                 .text(d => d.data.name + '\n' + formatNumber(d.value));
 
             newSlice.append('path')
@@ -132,6 +149,7 @@
                 .text(d => d.data.name);
         });
 
+
         function focusOn(d = { x0: 0, x1: 1, y0: 0, y1: 1 }) {
             // Reset to top-level if no data point specified
 
@@ -142,6 +160,8 @@
                         yd = d3.interpolate(y.domain(), [d.y0, 1]);
                     return t => { x.domain(xd(t)); y.domain(yd(t)); };
                 });
+
+
 
             transition.selectAll('path.main-arc')
                 .attrTween('d', d => () => arc(d));
@@ -165,4 +185,6 @@
             }
         }
     </script>
+
+
 </body>
