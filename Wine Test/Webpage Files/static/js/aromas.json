@@ -1,0 +1,543 @@
+{
+  "name": "Aromas",
+  "children": [
+    {
+      "name": "Fruit Aromas",
+      "children": [
+        {
+          "name": "Citrus",
+          "children": [
+            {
+              "name": "Grapefuit",
+              "size": 7000
+            },
+            {
+              "name": "Lemon",
+              "size": 7000
+            }
+          ]
+        },
+        {
+          "name": "(Tropical) Fruit",
+          "children": [
+            {
+              "name": "Pineapple",
+              "size": 5644
+            },
+            {
+              "name": "Melon",
+              "size": 4797
+            },
+            {
+              "name": "Banana",
+              "size": 1171
+            }
+          ]
+        },
+        {
+          "name": "(Tree) Fruit",
+          "children": [
+            {
+              "name": "Cherry",
+              "size": 32172
+            },
+            {
+              "name": "Apricot",
+              "size": 3957
+            },
+            {
+              "name": "Peach",
+              "size": 8798
+            },
+            {
+              "name": "Apple",
+              "size": 11729
+            }
+          ]
+        },
+        {
+          "name": "Berry",
+          "children": [
+            {
+              "name": "Blackberry",
+              "size": 14799
+            },
+            {
+              "name": "Raspberry – Red Raspberry and Black Raspberry",
+              "size": 9892
+            },
+            {
+              "name": "Strawberry",
+              "size": 3632
+            },
+            {
+              "name": "Black Currant (Cassis)",
+              "size": 12987
+            }
+          ]
+        },
+        {
+          "name": "(Dried) Fruit",
+          "children": [
+            {
+              "name": "Strawberry Jam",
+              "size": 2964
+            },
+            {
+              "name": "Raisin",
+              "size": 1458
+            },
+            {
+              "name": "Prune",
+              "size": 1758
+            },
+            {
+              "name": "Fig",
+              "size": 1269
+            }
+          ]
+        },
+        {
+          "name": "Other",
+          "children": [
+            {
+              "name": "Artificial Fruit",
+              "size": 1
+            },
+            {
+              "name": "Methyl Anthranilate",
+              "size": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spice Aromas",
+      "children": [
+        {
+          "name": "Spicy",
+          "children": [
+            {
+              "name": "Licorice/Anise",
+              "size": 8318
+            },
+            {
+              "name": "Black Pepper",
+              "size": 9064
+            },
+            {
+              "name": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Floral Aromas",
+      "children": [
+        {
+          "name": "Floral",
+          "children": [
+            {
+              "name": "Geranium",
+              "size": 16
+            },
+            {
+              "name": "Violet",
+              "size": 1092
+            },
+            {
+              "name": "Rose",
+              "size": 1811
+            },
+            {
+              "name": "Orange Blossom",
+              "size": 1207
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Microbiological Aromas",
+      "children": [
+        {
+          "name": "Yeasty",
+          "children": [
+            {
+              "name": "Leesy",
+              "size": 404
+            },
+            {
+              "name": "Baker's Yeast",
+              "size": 536
+            }
+          ]
+        },
+        {
+          "name": "Lactic",
+          "children": [
+            {
+              "name": "Yogurt",
+              "size": 57
+            },
+            {
+              "name": "Sweaty",
+              "size": 325
+            },
+            {
+              "name": "Sauerkraut",
+              "size": 21
+            }
+          ]
+        },
+        {
+          "name": "Other",
+          "children": [
+            {
+              "name": "Mousy",
+              "size": 10
+            },
+            {
+              "name": "Horsey",
+              "size": 72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sherry Aromas",
+      "children": [
+        {
+          "name": "Oxidized",
+          "children": [
+            {
+              "name": "Oxidized",
+              "size": 266
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pungent Aromas",
+      "children": [
+        {
+          "name": "Hot",
+          "children": [
+            {
+              "name": "Alcohol",
+              "size": 5183
+            }
+          ]
+        },
+        {
+          "name": "Cool",
+          "children": [
+            {
+              "name": "Menthol",
+              "size": 920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemical Smells",
+      "children": [
+        {
+          "name": "Pungent",
+          "children": [
+            {
+              "name": "add",
+              "size": 593
+            },
+            {
+              "name": "and",
+              "size": 330
+            },
+            {
+              "name": "average",
+              "size": 287
+            },
+            {
+              "name": "count",
+              "size": 277
+            }
+          ]
+        },
+        {
+          "name": "Sulfur",
+          "children": [
+            {
+              "name": "add",
+              "size": 593
+            },
+            {
+              "name": "add",
+              "size": 593
+            },
+            {
+              "name": "add",
+              "size": 593
+            },
+            {
+              "name": "add",
+              "size": 593
+            },
+            {
+              "name": "add",
+              "size": 593
+            },
+            {
+              "name": "add",
+              "size": 593
+            },
+            {
+              "name": "and",
+              "size": 330
+            },
+            {
+              "name": "average",
+              "size": 287
+            },
+            {
+              "name": "count",
+              "size": 277
+            }
+          ]
+        },
+        {
+          "name": "Petroleum",
+          "children": [
+            {
+              "name": "add",
+              "size": 593
+            },
+            {
+              "name": "and",
+              "size": 330
+            },
+            {
+              "name": "average",
+              "size": 287
+            },
+            {
+              "name": "count",
+              "size": 277
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Earthy Aromas",
+      "children": [
+        {
+          "name": "Moldy",
+          "children": [
+            {
+              "name": "Moldy Cork",
+              "size": 109
+            },
+            {
+              "name": "Moldy",
+              "size": 16
+            }
+          ]
+        },
+        {
+          "name": "Earthy",
+          "children": [
+            {
+              "name": "Mushroom",
+              "size": 1100
+            },
+            {
+              "name": "Dusty",
+              "size": 2768
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wood Aromas",
+      "children": [
+        {
+          "name": "Burned",
+          "children": [
+            {
+              "name": "Smoky",
+              "size": 5801
+            },
+            {
+              "name": "Burned Toast",
+              "size": 8199
+            },
+            {
+              "name": "Coffee",
+              "size": 5238
+            }
+          ]
+        },
+        {
+          "name": "Phenolic",
+          "children": [
+            {
+              "name": "Medicinal",
+              "size": 794
+            },
+            {
+              "name": "Phenolic",
+              "size": 92
+            },
+            {
+              "name": "Bacon",
+              "size": 1769
+            }
+          ]
+        },
+        {
+          "name": "Resinous",
+          "children": [
+            {
+              "name": "Oak",
+              "size": 23165
+            },
+            {
+              "name": "Cedar",
+              "size": 3802
+            },
+            {
+              "name": "Vanilla",
+              "size": 13680
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caramel Aromas",
+      "children": [
+        {
+          "name": "Caramel",
+          "children": [
+            {
+              "name": "Honey",
+              "size": 5053
+            },
+            {
+              "name": "Butterscotch",
+              "size": 1222
+            },
+            {
+              "name": "Diacetyl (Butter)",
+              "size": 1229
+            },
+            {
+              "name": "Soy Sauce",
+              "size": 297
+            },
+            {
+              "name": "Chocolate",
+              "size": 12090
+            },
+            {
+              "name": "Molasses",
+              "size": 557
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nut Aromas",
+      "children": [
+        {
+          "name": "Nutty",
+          "children": [
+            {
+              "name": "Walnut",
+              "size": 178
+            },
+            {
+              "name": "Hazelnut",
+              "size": 370
+            },
+            {
+              "name": "Almond",
+              "size": 3390
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Herbaceous or Vegetative Aromas",
+      "children": [
+        {
+          "name": "Fresh",
+          "children": [
+            {
+              "name": "Cut Green Grass",
+              "size": 1060
+            },
+            {
+              "name": "Bell Pepper",
+              "size": 534
+            },
+            {
+              "name": "Eucalyptus",
+              "size": 445
+            },
+            {
+              "name": "Mint",
+              "size": 3658
+            }
+          ]
+        },
+        {
+          "name": "Canned/Cooked",
+          "children": [
+            {
+              "name": "Green Beans",
+              "size": 163
+            },
+            {
+              "name": "Asparagus",
+              "size": 335
+            },
+            {
+              "name": "Black/Green Olive",
+              "size": 1831
+            },
+            {
+              "name": "Artichoke",
+              "size": 24
+            }
+          ]
+        },
+        {
+          "name": "Dried",
+          "children": [
+            {
+              "name": "Hay/Straw",
+              "size": 740
+            },
+            {
+              "name": "Tea",
+              "size": 2185
+            },
+            {
+              "name": "Tobacco",
+              "size": 6303
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
