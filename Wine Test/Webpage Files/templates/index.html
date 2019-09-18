@@ -16,12 +16,21 @@ g<!DOCTYPE html>
                 <h2>Wine Recommendations</h2>
                 <p>Expand your palate. Explore by selecting a wine attribute.</p>
             </div>
-        <div class="row">
-            <div class="col-md-2">
-                <div class="well">
-                    <h5 class="panel-title">WINE DATA WILL BE HERE</h5>
+            <div class="row">
+                <div class="col-md-2">
+                  <div class="well">
+                    <h5>SELECT Sample:</h5>
+                    <select id="selDataset" onchange="optionChanged(this.value)"></select>
+                  </div>
+                  <div class="panel panel-primary">
+                    <div class="panel-heading">
+                      <h3 class="panel-title">Sample MetaData</h3>
+                    </div>
+                    <div id="sample-metadata" class="panel-body"></div>
+                  </div>
                 </div>
-            <div id="sample-metadata" class="panel-body"></div>
     <script type="text/javascript" src="../static/js/app.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </body>
 </html>
