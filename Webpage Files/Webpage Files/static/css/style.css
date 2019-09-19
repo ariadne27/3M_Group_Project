@@ -3,6 +3,19 @@ body {
     font-size: 11px;
 }
 
+#myBox { 
+    background-image: url('winery.png'); 
+    opacity:0.65;
+}
+
+.specialText{
+    font-weight: bold !important;
+    color:white;
+    text-shadow: 2px 0 black, 0 2px black, 2px 0 black, 2 2px black;
+    
+}
+
+
 .slice {
     cursor: pointer;
 }
