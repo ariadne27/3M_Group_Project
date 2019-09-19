@@ -61,7 +61,9 @@ def sample_metadata(ID):
         Samples_Metadata.wine2,
         Samples_Metadata.wine3,
         Samples_Metadata.wine4,
-        Samples_Metadata.wine5
+        Samples_Metadata.wine5, 
+        Samples_Metadata.score, 
+        Samples_Metadata.price
     ]
 
     results = db.session.query(*sel).filter(Samples_Metadata.ID == ID).all()
@@ -71,7 +73,9 @@ def sample_metadata(ID):
     for result in results:
         sample_metadata["ID"] = result[0]
         sample_metadata["Attribute"] = result[3]
-        sample_metadata["Wine 1:"] = result[4]
+        sample_metadata["Average Score"] = result[9]
+        sample_metadata["Average Price"] = result[10]
+        sample_metadata["Wine 1"] = result[4]
         sample_metadata["Wine 2"] = result[5]
         sample_metadata["Wine 3"] = result[6]
         sample_metadata["Wine 4"] = result[7]
