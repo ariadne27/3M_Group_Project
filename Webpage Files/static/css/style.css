@@ -1,0 +1,36 @@
+body {
+    font-family: Sans-serif;
+    font-size: 11px;
+}
+
+#myBox { 
+    background-image: url('winery.png'); 
+    opacity:0.65;
+}
+
+.specialText{
+    font-weight: bold !important;
+    color:white;
+    text-shadow: 2px 0 black, 0 2px black, 2px 0 black, 2 2px black;
+    
+}
+
+
+.slice {
+    cursor: pointer;
+}
+
+.slice .main-arc {
+    stroke: #fff;
+    stroke-width: 1px;
+}
+
+.slice .hidden-arc {
+    fill: none;
+}
+
+.slice text {
+    pointer-events: none;
+    dominant-baseline: middle;
+    text-anchor: middle;
+}
