@@ -1,0 +1,97 @@
+x,value,category
+acetic acid,9,Negative
+alcohol,5183,Neutral
+almond,3390,Positive
+apple,11729,Positive
+apricot,3957,Positive
+artichoke,24,Negative
+asparagus,335,Negative
+bacon,1769,Positive
+baker's yeast,536,Neutral
+banana,1171,Neutral
+bell,534,Neutral
+black currant,12987,Positive
+black pepper,9064,Positive
+blackberry,14799,Positive
+burned,31,Negative
+burnt match,699,Negative
+burnt toast,8199,Negative
+butterscotch,1222,Positive
+cabbage,25,Negative
+canned/cooked,798,Negative
+caramel,3063,Positive
+cedar,3802,Positive
+cherry,32172,Positive
+chocolate,12090,Positive
+citrus,16925,Positive
+cloves,117,Neutral
+coffee,5283,Neutral
+cork,109,Negative
+cut green grass,1060,Neutral
+diacetyl (butter),1229,Negative
+diesel,126,Negative
+dried,5996,Neutral
+dusty,2768,Negative
+ethyl acetate,5,Negative
+eucalyptus,445,Positive
+fig,1269,Positive
+floral,3662,Positive
+fresh,16653,Positive
+fruit aromas,8643,Neutral
+garlic,94,Negative
+geranium,16,Neutral
+grapefruit,4005,Positive
+green beans,163,Negative
+green/black olive,1831,Neutral
+hay/straw,740,Negative
+hazelnut,370,Positive
+honey,5053,Positive
+horsey,72,Negative
+kerosene,29,Negative
+leesy,404,Negative
+lemon,6831,Neutral
+licorice/anise,8318,Neutral
+medicinal,794,Negative
+melon,4797,Positive
+menthol,920,Neutral
+mint,3658,Neutral
+molasses,557,Positive
+moldy,16,Negative
+mousy,10,Negative
+mushroom,1100,Negative
+natural gas/mercaptain,11,Negative
+nutty,804,Positive
+oak,23165,Positive
+orange blossom,1207,Positive
+oxidized,266,Negative
+peach,8798,Positive
+petroleum,65,Negative
+phenolic,92,Negative
+pineapple,5644,Neutral
+plastic,137,Negative
+prune,1758,Neutral
+raisin,1458,Neutral
+raspberry,9892,Positive
+resinous,52,Positive
+rose,1811,Positive
+rubbery,896,Negative
+sauerkraut,21,Negative
+skunk,4,Negative
+smoky,5801,Neutral
+soy sauce,297,Negative
+spicy,31055,Neutral
+strawberry,3632,Positive
+strawberry jam,2964,Positive
+sulfur,207,Negative
+sulfur dioxide,11,Negative
+sweaty,325,Negative
+tar,1139,Negative
+tea,2185,Neutral
+tobacco,6303,Negative
+tree fruit,13499,Positive
+tropical fruit,4132,Positive
+vanilla,13680,Positive
+violet,1092,Positive
+walnut,178,Positive
+wet wool/wet dog,77,Negative
+yogurt,57,Neutral
