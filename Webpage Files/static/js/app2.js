@@ -107,7 +107,7 @@ var data = [
   chart.title('2017 Wine Attributes Weighed by Frequency')
 
   // set an array of angles at which the words will be laid out
-  chart.angles([0])
+  chart.angles([-45])
   // for a more chaotic look, do the following angles:
   // chart.angles([0, -45, 90])
 

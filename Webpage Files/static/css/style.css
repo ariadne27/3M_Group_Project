@@ -15,7 +15,9 @@ body {
     
 }
 
-
+a {
+    color: rgb(231, 171, 171);
+}
 .slice {
     cursor: pointer;
 }
