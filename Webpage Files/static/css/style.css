@@ -36,3 +36,24 @@ a {
     dominant-baseline: middle;
     text-anchor: middle;
 }
+
+
+<style>
+    footer {
+        position: absolute;
+        /* height: 50px; */
+        width: 100%;
+        background-color: black;
+        bottom:0; 
+    }
+
+    p.copyright {
+        /* position: absolute; */
+        width: 100%;
+        color: black;
+        line-height: 40px;
+        font-size: 1em;
+        text-align: center;
+        bottom:0;
+    }
+</style>
